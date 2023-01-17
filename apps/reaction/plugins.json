@@ -7,7 +7,7 @@
   "i18": "@reactioncommerce/api-plugin-i18n",
   "email": "@reactioncommerce/api-plugin-email",
   "addressValidation": "@reactioncommerce/api-plugin-address-validation",
-  "translations": "@reactioncommerce/api-plugin-translations",
+  "translations": "@brian-demo-050822/api-plugin-translations",
   "systemInformation": "@reactioncommerce/api-plugin-system-information",
   "emailSMTP": "@reactioncommerce/api-plugin-email-smtp",
   "emailTemplates": "@reactioncommerce/api-plugin-email-templates",

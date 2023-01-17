@@ -1,7 +1,5 @@
 name: PRERELEASE
 on:
-  branch:
-    - prerelease
   workflow_dispatch:
     branches:
       - prerelease
