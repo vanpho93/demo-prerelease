@@ -1,7 +1,7 @@
 {
   "name": "@brian-demo-050822/api-plugin-translations",
   "description": "Translations plugin for the Reaction API",
-  "version": "2.0.0-next.0",
+  "version": "2.0.0",
   "main": "index.js",
   "type": "module",
   "engines": {
