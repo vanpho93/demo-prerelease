@@ -1,5 +1,12 @@
 # reaction
 
+## 4.2.8-next.0
+
+### Patch Changes
+
+- Updated dependencies [[`8b5325f32`](https://github.com/vanpho93/demo-prerelease/commit/8b5325f324543352a018c0ccb45c204a596e63b7)]:
+  - @brian-demo-050822/api-plugin-translations@2.0.0-next.0
+
 ## 4.2.7
 
 ### Patch Changes
