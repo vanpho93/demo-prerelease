@@ -3,7 +3,7 @@
   "jobQueue": "@reactioncommerce/api-plugin-job-queue",
   "files": "@reactioncommerce/api-plugin-files",
   "shops": "@reactioncommerce/api-plugin-shops",
-  "settings": "@reactioncommerce/api-plugin-settings",
+  "settings": "@brian-demo-050822/api-plugin-settings",
   "i18": "@reactioncommerce/api-plugin-i18n",
   "email": "@reactioncommerce/api-plugin-email",
   "addressValidation": "@reactioncommerce/api-plugin-address-validation",
