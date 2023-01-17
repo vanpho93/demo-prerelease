@@ -109,7 +109,7 @@ patch:
         patched: '2020-09-17T21:41:02.328Z'
     - '@reactioncommerce/api-plugin-taxes-flat-rate > @reactioncommerce/api-utils > lodash':
         patched: '2020-09-17T21:41:02.328Z'
-    - '@reactioncommerce/api-plugin-translations > @reactioncommerce/api-utils > lodash':
+    - '@brian-demo-050822/api-plugin-translations > @reactioncommerce/api-utils > lodash':
         patched: '2020-09-17T21:41:02.328Z'
     - '@reactioncommerce/api-plugin-payments-stripe > nock > lodash':
         patched: '2020-09-17T21:41:02.328Z'
