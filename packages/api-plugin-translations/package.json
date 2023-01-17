@@ -1,18 +1,18 @@
 {
-  "name": "@reactioncommerce/api-plugin-translations",
+  "name": "@brian-demo-050822/api-plugin-translations",
   "description": "Translations plugin for the Reaction API",
-  "version": "1.2.2",
+  "version": "2.0.0-next.0",
   "main": "index.js",
   "type": "module",
   "engines": {
     "node": ">=14.18.1"
   },
-  "homepage": "https://github.com/reactioncommerce/reaction",
-  "url": "https://github.com/reactioncommerce/reaction",
+  "homepage": "https://github.com/vanpho93/demo-prerelease",
+  "url": "https://github.com/vanpho93/demo-prerelease",
   "email": "engineering@reactioncommerce.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactioncommerce/reaction.git",
+    "url": "https://github.com/vanpho93/demo-prerelease.git",
     "directory": "packages/api-plugin-translations"
   },
   "author": {
@@ -22,7 +22,7 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/reaction/issues"
+    "url": "https://github.com/vanpho93/demo-prerelease/issues"
   },
   "sideEffects": false,
   "dependencies": {
