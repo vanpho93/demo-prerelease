@@ -140,8 +140,8 @@ importers:
 
   apps/reaction:
     specifiers:
-      '@brian-demo-050822/api-plugin-sequences': 0.0.0
-      '@brian-demo-050822/api-plugin-settings': 1.0.7
+      '@brian-demo-050822/api-plugin-sequences': 1.0.0-next.0
+      '@brian-demo-050822/api-plugin-settings': 2.0.0-next.0
       '@brian-demo-050822/api-plugin-tags': 0.0.0
       '@reactioncommerce/api-core': 2.0.1
       '@reactioncommerce/api-plugin-accounts': 2.0.4
