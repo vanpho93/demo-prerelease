@@ -16,7 +16,7 @@
   "authorization": "@reactioncommerce/api-plugin-authorization-simple",
   "products": "@reactioncommerce/api-plugin-products",
   "catalogs": "@reactioncommerce/api-plugin-catalogs",
-  "tags": "@reactioncommerce/api-plugin-tags",
+  "tags": "@brian-demo-050822/api-plugin-tags",
   "pricingSimple": "@reactioncommerce/api-plugin-pricing-simple",
   "inventory": "@reactioncommerce/api-plugin-inventory",
   "inventorySimple": "@reactioncommerce/api-plugin-inventory-simple",
