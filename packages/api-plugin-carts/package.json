@@ -45,7 +45,7 @@
   },
   "peerDependencies": {
     "@reactioncommerce/api-plugin-address-validation": "^1.0.0",
-    "@reactioncommerce/api-plugin-tags": "^1.0.0"
+    "@brian-demo-050822/api-plugin-tags": "0.0.0"
   },
   "scripts": {
     "test": "jest",

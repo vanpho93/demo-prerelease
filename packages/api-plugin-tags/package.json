@@ -1,18 +1,18 @@
 {
-  "name": "@reactioncommerce/api-plugin-tags",
+  "name": "@brian-demo-050822/api-plugin-tags",
   "description": "Tags plugin for the Reaction API",
-  "version": "1.2.1",
+  "version": "0.0.0",
   "main": "index.js",
   "type": "module",
   "engines": {
     "node": ">=14.18.1"
   },
-  "homepage": "https://github.com/reactioncommerce/reaction",
-  "url": "https://github.com/reactioncommerce/reaction",
+  "homepage": "https://github.com/vanpho93/demo-prerelease",
+  "url": "https://github.com/vanpho93/demo-prerelease",
   "email": "engineering@reactioncommerce.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactioncommerce/reaction.git",
+    "url": "https://github.com/vanpho93/demo-prerelease.git",
     "directory": "packages/api-plugin-tags"
   },
   "author": {
@@ -22,7 +22,7 @@
   },
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/reaction/issues"
+    "url": "https://github.com/vanpho93/demo-prerelease/issues"
   },
   "sideEffects": false,
   "dependencies": {

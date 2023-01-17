@@ -1,5 +1,13 @@
 # reaction
 
+## 4.2.8-next.0
+
+### Patch Changes
+
+- Updated dependencies [[`4317ef2c2`](https://github.com/vanpho93/demo-prerelease/commit/4317ef2c26e35a68f885798718f65f0d03453096)]:
+  - @brian-demo-050822/api-plugin-sequences@1.0.0-next.0
+  - @brian-demo-050822/api-plugin-settings@2.0.0-next.0
+
 ## 4.2.7
 
 ### Patch Changes
